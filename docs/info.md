@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Traffic light transitions green to yellow to red.
 
 ## How to test
 
-Explain how to use your project
+LEDs should transition green to yellow to red.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+3 LEDs.
